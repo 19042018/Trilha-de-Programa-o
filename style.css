@@ -1,2 +1,15 @@
-header{
-    background-color: aqua;}
+.cabeçalho{
+    background-color: aqua;
+    color: write;
+    display: flex;
+    padding: 2%;
+    font-size: 24px;
+    justify-content: space-around;
+}
+.cabeçalho-imagem{
+    width: 10%;
+    height: 10%;
+}
+.cabeçalho-item {
+    display: inline-block;
+}
