@@ -12,4 +12,23 @@
 }
 .cabeçalho-item {
     display: inline-block;
+    font-size: 35px;
+    padding: 0 0 0 30px;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.Colégio {
+    background-color: aquamarine;
+    color: black;
+    font-size: 30px;
+    padding: 150px 100px;
+}
+.Colégio-titulo {
+    padding: 24px 0;
 }
